@@ -1,5 +1,10 @@
 {
-    "java.project.sourcePaths": ["src"],
+    "java.project.sourcePaths": [
+        "src",
+        "JAVA NOTES/2_ForTest",
+        "JAVA NOTES/1_first_program",
+        "JAVA NOTES/3_convention_more"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",

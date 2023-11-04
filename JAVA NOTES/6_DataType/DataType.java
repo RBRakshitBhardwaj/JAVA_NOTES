@@ -69,7 +69,7 @@ public class DataType {
  * 
  * range formula:
  * 
- * -2^bits-1 to 2^bits-1
+ * (-2^bits-1) to (2^bits-1) -1
  * 
  * byte  -> 1 byte = 8 bits
  * short -> 2 byte = 16 bits 
@@ -84,15 +84,26 @@ public class DataType {
  * Default value :
  *  when we do not assign any value to a variable i that case java peovide default value . according to respecive data type
  * 
- * "A"+"A" = AA
- * 'A'+'A' = 130
+ * 
+ * in char data-type
+ * 
+ * JAVA CHAR --> 2 BYTE
+ * 
+ * THERE ARE 256 AASCI CODE
+ * 
+ * /u stands for uni-code
+ * 
+ * 
+ * "A"+"A" = AA  --> this is a string
+ * 'A'+'A' = 130  -->  ASCI CODE
  * 65 + 65 = 130
  * 
  * ASCI CODE
- * A --> 65 to  Z -->    
- * a --> 97 to  z -->
+ * A --> 65 to  Z --> 90    
+ * a --> 97 to  z --> 122
  * 0 --> 48
  * 1 --> 49
+ * 9 --> 57
  * 
  * unicode universal code 
  * "\u0000"
