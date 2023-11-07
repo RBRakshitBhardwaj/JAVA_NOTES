@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "JAVA NOTES/8_",
         "JAVA NOTES/7_",
         "JAVA NOTES/3_convention_more",
         "JAVA NOTES/2_ForTest",
         "JAVA NOTES/1_first_program",
-        "JAVA NOTES/8_"
+        "JAVA NOTES/9_"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

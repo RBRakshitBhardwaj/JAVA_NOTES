@@ -82,6 +82,62 @@ public class Demo {
          * 
          *  
          * 
+         * >>>>>>>>>>>>>>>Multiple variavle declaration <<<<<<<<<<<<<<<<<<<<
+         * 
+         * boolean b1,b2;
+         * 
+         * 
+         * >>>>>>>>>>>>>>>>>>>>> Local variable <<<<<<<<<<<<<<
+         * 
+         * variable which lie under the method is called local variable
+         * 
+         * default value:
+         * int 0
+         * double .0
+         * 
+         * Stirng null
+         * 
+         * +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+         * Local variable:
+         * 
+         * void myMethod(){
+         *      int var =10; //this is local variable.
+         *  }
+         * 
+         * Note:
+         *  Local variable dosent get the default value.
+         * so always remember . We cann't use local variable without initialization.
+         * 
+         * ex:
+         * class ForTesst{
+         *      public static void main(String[]args){
+         *      
+         *          int var;
+         *          System.out.println(var;)
+         *      }
+         * }
+         * 
+         *  //ctrl + Shift + f 
+         *   //  for proper arrangement of code
+         * 
+         * 
+         * Local variable dosent have default value and must be initialized before use
+         * 
+         * public void notValid(){
+         *      int y=10;
+         *      int x;
+         *      int res=x+y;//DOESNT compile
+         *      sopln(res);
+         * 
+         * 
+         *  }
+         * 
+         * 15-8-23
+         * 
+         * 
+         * 
+         * 
+         * 
          * 
          * 
          * 
