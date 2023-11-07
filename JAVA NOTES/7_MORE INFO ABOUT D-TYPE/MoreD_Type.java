@@ -141,10 +141,16 @@ public class MoreD_Type {
  * 
  * 
  * 
+ * 11 - 8 - 23
  * 
  * 
+ * 14-8-23
  * 
+ * character always locate in single quotes.
  * 
+ * ex
+ * 
+ * char gender = 'M';
  * 
  * 
  * 
