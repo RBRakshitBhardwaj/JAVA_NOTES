@@ -4,7 +4,7 @@ public class Demo2 {
         var name="rakshit";
         var age="20";
         System.out.println(name);
-        System.out.println(age);
+        System.out.println(age); 
     }
     
 }
