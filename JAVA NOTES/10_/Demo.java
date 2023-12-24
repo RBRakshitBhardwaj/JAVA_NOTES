@@ -1,7 +1,6 @@
 public class Demo {
     public static void main(String[] args) {
-        
-
+         System.out.println("result is :"+10+20);
 
 
 
@@ -55,6 +54,19 @@ public class Demo {
          * 
          * 
          * 18:14 16-8-23
+         * 
+         * OLL OBJECT ARE CREATED IN HEAP MEMEORY
+         * 
+         * THIS ID FOR DYNAMMIC MEMORY MANAGEMENT
+         * 
+         * VARIABLE IS STORE IN LOCAL SCOPE
+         * 
+         * 
+         * 10 + 20 ADDITION
+         * 
+         * A + B CONCATATION
+         * 
+         * 
          * 
          * 
          * 
