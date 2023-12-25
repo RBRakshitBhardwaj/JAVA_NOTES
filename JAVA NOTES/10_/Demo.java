@@ -61,10 +61,26 @@ public class Demo {
          * 
          * VARIABLE IS STORE IN LOCAL SCOPE
          * 
+         * System.out.peint("result:" + 10 + 20) is different from System.out.println("result : "+(10+20));
          * 
          * 10 + 20 ADDITION
          * 
          * A + B CONCATATION
+         * 
+         * stack memory is a temperoary memory
+         * 
+         * every time changing value same loacation overwrite
+         * 
+         * \t is use for tab space
+         * 
+         * int a=10;  compile time initialization or Static initailization
+         * int b=20;
+         * 
+         * int c=a*b; is dynamic initialization
+         * 
+         * 
+         * 
+         * 
          * 
          * 
          * 
