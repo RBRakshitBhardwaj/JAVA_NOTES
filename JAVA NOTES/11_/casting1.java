@@ -7,6 +7,17 @@ public class casting1 {
 
         long var2=10l; 
         float var3=var2;
+        byte var4=23; // byte b=(byte)10;
+
+        char ch=56; // char ch=(char)65
+
+        System.out.println(ch);
+        System.out.println(var4); //no error because inplicit conversion occer
+
+
+
+
+
         System.out.println(var3);
 
 
@@ -14,6 +25,14 @@ public class casting1 {
         System.out.println(b);
         System.out.println(var);
         System.out.println(var1);
+        /*
+         * 
+         * when we assign the long type value to the flaot variable, in that case data goes in to the Exponential and mantissa form.
+         * 
+         * floaat var1=34.3;
+         * 
+         * 
+         */
     }
     
 }
