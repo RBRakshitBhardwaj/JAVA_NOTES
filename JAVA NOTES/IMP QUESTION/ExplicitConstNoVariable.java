@@ -3,6 +3,13 @@ public class ExplicitConstNoVariable {
         short a=130;
         byte b=(byte)a;
         System.out.println(b);
+
+        /*
+         * 
+         * it compile but some data may lossit result in unaspected dara    
+         * 
+         * 
+         */
     }
     
 }
