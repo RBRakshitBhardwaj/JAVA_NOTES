@@ -1,0 +1,8 @@
+if(duck!=null & duck.getAge()<5)
+         * 
+         * it will rais exception because & will operate both condition
+         * 
+         * but 
+         * if(duck!=null&& duck.getAge()<5) if this would done then the null expection will not occer
+         * 
+         * because this is short circuit it will stop at first condition only.

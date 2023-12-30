@@ -148,6 +148,9 @@ public class relation {
          * 
          *    29 - 8 - 23   27:18
          * 
+         * if we compair null from null doesnt compile
+         * 
+         * it give true if null == null 
          * 
          * 
          * 
