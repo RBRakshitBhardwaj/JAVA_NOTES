@@ -1,4 +1,3 @@
-package JAVA_NOTES.ImportentQuestion;
 import java.util.Scanner;
 public class FibonachiSeries {
     public static void main(String[] args) {
