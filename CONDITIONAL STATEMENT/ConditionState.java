@@ -60,7 +60,24 @@ public class ConditionState {
          * case var:
          *    sout   it will not give any error.
          * 
+         * var answer ; not correct.
          * 
+         * here answer variable will not work because we have'nt give value to variable at point.
+         * var answer =1; is correct
+         * 
+         * int a, var b=3; //dose not compile.
+         * 
+         * var a=2,b=3;
+         * multiple declarition is not allow.
+         * 
+         * var n=null; //does not compile. 
+         * 
+         * var can be use with local variable
+         * 
+         * not with instance variable.
+         * 
+         * 
+         *  
          * 
          * 
          * 
