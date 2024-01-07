@@ -1,7 +1,7 @@
 public class Iteration {
     public static void main(String[] args) {
         
-
+        System.out.println("Iteration");
 
 
 
@@ -129,10 +129,10 @@ public class Iteration {
          * 
          * 8-9-23 10:04\
          * 
+         * a=b%10   --> it will xtract the last digit.
+         * a=a/10   --> it will remove the last digit.
          * 
-         * 
-         * 
-         * 
+         * break statement is use for unusual termination of a block.
          * 
          * 
          * 

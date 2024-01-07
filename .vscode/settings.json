@@ -6,7 +6,10 @@
         "JAVA NOTES/3_convention_more",
         "JAVA NOTES/2_ForTest",
         "JAVA NOTES/1_first_program",
-        "ImportentQuestion"
+        "IterationLoop",
+        "ImportentQuestion",
+        "IMP QUESTION",
+        "PRACTICE"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
