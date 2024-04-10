@@ -1,5 +1,5 @@
 
-public class relation {
+public class relation_OPERATOR {
     public static void main(String[] args) {
         
 
