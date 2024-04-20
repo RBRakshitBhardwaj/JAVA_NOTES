@@ -105,6 +105,7 @@ public class relation_OPERATOR {
          *      System.out.println(c+" "+d);   //     11   10
          *  }
          *  
+         * if we execute an operation on operater which is equal to null it will rais null pointer exception.
          * 
          * NOte    Logical operator always take short-cut short circuit    && || !
          * 
